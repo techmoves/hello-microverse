@@ -59,8 +59,8 @@ Deployment
 
 📝 License
 
-📖 [your_project_name]
-Describe your project in 1 or 2 sentences.
+📖 [hello microvese]
+thi is a basic microverse "hello microverse project"
 
 [hello microvese] is a...
 
