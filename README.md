@@ -1,7 +1,10 @@
 # hello-microverse
 This is just basic min-project to must github flow 
 
+ 
+ ![murple_logo](https://user-images.githubusercontent.com/110924992/218853728-1a8f5726-cd6a-4613-85ed-38dd5132cd9f.png)
 
+ 
 Microverse README Template
 📗 Table of Contents
 
