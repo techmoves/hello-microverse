@@ -3,6 +3,10 @@ This is just basic min-project to must github flow
 
  
  ![murple_logo](https://user-images.githubusercontent.com/110924992/218853728-1a8f5726-cd6a-4613-85ed-38dd5132cd9f.png)
+ 
+ 
+ 
+ 
 
  
 Microverse README Template
@@ -62,6 +66,7 @@ Describe the tech stack and include only the relevant sections that apply to you
 Client
 
 Server
+node.js
 
 Database
 
