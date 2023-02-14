@@ -1,13 +1,6 @@
 # hello-microverse
 This is just basic min-project to must github flow 
 
-
-
-
-
-# hello-microverse
-This is just basic min-project to must github flow 
-
  
  ![murple_logo](https://user-images.githubusercontent.com/110924992/218853728-1a8f5726-cd6a-4613-85ed-38dd5132cd9f.png)
  
@@ -59,8 +52,8 @@ Deployment
 
 📝 License
 
-📖 [hello microvese]
-thi is a basic microverse "hello microverse project"
+📖 [your_project_name]
+Describe your project in 1 or 2 sentences.
 
 [hello microvese] is a...
 
@@ -68,7 +61,7 @@ thi is a basic microverse "hello microverse project"
   .html
     .css
 Tech Stack
-node.jst
+Describe the tech stack and include only the relevant sections that apply to your project.
 
 Client
 
@@ -106,10 +99,8 @@ Clone this repository to your desired folder:
 Install
 Install this project with:
 
-
 Usage
 To run the project, execute the following command:
-
 
 Run tests
 To run tests, run the following command:
