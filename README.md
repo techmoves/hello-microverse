@@ -68,7 +68,7 @@ thi is a basic microverse "hello microverse project"
   .html
     .css
 Tech Stack
-Describe the tech stack and include only the relevant sections that apply to your project.
+node.jst
 
 Client
 
