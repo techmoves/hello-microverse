@@ -8,6 +8,8 @@ Microverse README Template
 📖 About the Project
 
 🛠 Built With
+html
+& css
 
 Tech Stack
 
