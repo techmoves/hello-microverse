@@ -4,25 +4,45 @@ This is just basic min-project to must github flow
 
 Microverse README Template
 📗 Table of Contents
+
 📖 About the Project
+
 🛠 Built With
+
 Tech Stack
+
 Key Features
+
 🚀 Live Demo
+
 💻 Getting Started
 Setup
+
+
 Prerequisites
+
 Install
+
 Usage
+
 Run tests
+
 Deployment
+
 👥 Authors
+
 🔭 Future Features
+
 🤝 Contributing
+
 ⭐️ Show your support
+
 🙏 Acknowledgements
+
 ❓ FAQ (OPTIONAL)
+
 📝 License
+
 📖 [your_project_name]
 Describe your project in 1 or 2 sentences.
 
@@ -35,10 +55,14 @@ Tech Stack
 Describe the tech stack and include only the relevant sections that apply to your project.
 
 Client
+
 Server
+
 Database
-Key Features
+
+
 Describe between 1-3 key features of the application.
+
 
 [key_feature_1]
 [key_feature_2]
