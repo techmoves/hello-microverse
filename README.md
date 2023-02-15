@@ -6,7 +6,7 @@
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Hello Microverse</b></h3>
+ 
 
 </div>
 
@@ -36,11 +36,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello microverse] <a name="about-project"></a>
+# 📖 Hello microverse <a name="about-project"></a>
 this just a basic project and the 1st project on the module
 This help me having to understand about linters 
 
-**[Hello hello microverse]** 
+**  Hello hello microverse ** 
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -98,11 +98,7 @@ This help me having to understand about linters
 
 To get a local copy up and running, follow these steps.
 
-### Prerequisites
-   Git Installed
-   npm Installed
-   Code Editor Instaled
-   Setup
+
 
 In order to run this project you need:
 one this repository to your desired folder https://github.com/techmoves/hello-microvese.git
@@ -207,34 +203,16 @@ Example:
 - LinkedIn: [LinkedIn][(https://linkedin.com/in/phelelani-ndlovu-883916160)]
 
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
-## 🤝 Contributing <a name="contributing"></a>
-
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SUPPORT -->
 
-## ⭐️ Show your support <a name="support"></a>
+
 
 > Write a message to encourage readers to support your project
 
