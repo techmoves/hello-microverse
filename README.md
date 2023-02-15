@@ -84,8 +84,6 @@ This help me having to understand about linters
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-![image](https://user-images.githubusercontent.com/110924992/219130708-644a04c1-3bef-4342-95bf-ec06f4131ca5.png)
-
 
 
 > Add a link to your deployed project.
