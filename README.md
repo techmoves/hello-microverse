@@ -2,15 +2,9 @@
 This is just basic min-project to must github flow 
 
  
- ![murple_logo](https://user-images.githubusercontent.com/110924992/218853728-1a8f5726-cd6a-4613-85ed-38dd5132cd9f.png)
+Microverse README Template
  
  
- 
- 
-
-
-
-
 
 
 📗 Table of Contents
@@ -111,7 +105,7 @@ GitHub: @techmoves
 
 Twitter: @Dopezonke_
 
-LinkedIn: phelelani Ndlovu
+LinkedIn: https://www.linkedin.com/in/phelelani-ndlovu-883916160/
 
 
 (back to top)
