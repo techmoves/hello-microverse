@@ -1,142 +1,281 @@
-# hello-microverse
-This is just basic min-project to must github flow 
-
- 
-Microverse README Template
- 
- 
+<a name="readme-top"></a>
 
 
-📗 Table of Contents
+<div align="center">
+  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
+
+  <h3><b>Hello Microverse</b></h3>
+
+</div>
+
+<!-- TABLE OF CONTENTS -->
+
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
+
+<!-- PROJECT DESCRIPTION -->
+
+# 📖 [Hello microverse] <a name="about-project"></a>
+this just a basic project and the 1st project on the module
+This help me having to understand about linters 
+
+**[Hello hello microverse]** 
+
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+> Describe the tech stack and include only the relevant sections that apply to your project.
+
+<details
+  <summary>HTML5</summary>
+  <ul>
+    <li>HTML Tutorial from W3school</li>
+  </ul>
+</details>
+
+<details>
+  <summary>CSS3</summary>
+  <ul>
+    <li>CSS3 Tutorial from W3school</li>
+  </ul>
+</details>
+
+<details>
+<summary>Linters</summary>
+  <ul>
+    <li>Linters Tutorial</a></li>
+  </ul>
+</details>
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+- **[html 5]**
+- **[css 3]**
+- **[linters]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
 
 
-📖 About the Project
-
-🛠 Built With
-
-Tech Stack
-
-Key Features
-
-🚀 Live Demo
-
-💻 Getting Started
-
-Setup
-
-Prerequisites
-
-Install
-
-Usage
-
-Run tests
-
-Deployment
-
-👥 Authors
-
-🔭 Future Features
-
-🤝 Contributing
-
-⭐️ Show your support
-
-🙏 Acknowledgements
-
-❓ FAQ
-
-📝 License
-
-📖 [Hello Micorverse]
+![image](https://user-images.githubusercontent.com/110924992/219130708-644a04c1-3bef-4342-95bf-ec06f4131ca5.png)
 
 
-Describe your project in 1 or 2 sentences. [Hello Microverse] is a...
 
-🛠 Built With
-Tech Stack
-Key Features
-Describe between 1-3 key features of the application.
+> Add a link to your deployed project.
 
-[.Gitignore file]
-[Linters]
-[css, html]
-(back to top)
+- [Live Demo Link]()
 
-🚀 Live Demo
-Add a link to your deployed project.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Live Demo Link
-(back to top)
+<!-- GETTING STARTED -->
 
-Prerequisites
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+   Git Installed
+   npm Installed
+   Code Editor Instaled
+   Setup
+
 In order to run this project you need:
+one this repository to your desired folder https://github.com/techmoves/hello-microvese.git
 
-Setup
+Run the command npm install to install necessary dependencies contained in the package.json file
 
 
-Clone this repository to your desired folder: https://github.com/techmoves/Hello-Microverse.git
+<!--
+Example command:
 
-Install
-Install this project with:
+```sh
+ gem install rails
+```
+ -->
 
-Usage
-To run the project, execute the following command:
+### Setup
 
-Run tests
+Clone this repository to your desired folder:
+
+<!--
+Example commands:
+
+```sh
+  cd my-folder
+  git clone git@github.com:myaccount/my-project.git
+```
+--->
+
+### Install
+Install this project with these cmd:
+
+     1.cd Desktop/
+     2git clone using repository link
+     3.cd Hello-world/
+     4.git branch branch_name
+     5.git checkout branch_name
+
+gitbash and clone the repo using HTTP link
+
+<!--
+Example command:
+
+```sh
+  cd my-project
+  gem install
+```
+--->
+
+<!-- ### Usage
+
+To run the project, execute the following command: -->
+
+<!--
+Example command:
+
+```sh
+  rails server
+```
+--->
+
+### Run tests
+
 To run tests, run the following command:
 
-Deployment
-You can deploy this project using:
+     1.Run tests
+     2.To run tests run :
+     3.npx hint .
+     4.npx stylelint "*/.{css,scss}"
 
-(back to top)
+<!--
+Example command:
 
-👥 Authors
-Mention all of the collaborators of this project. 👤 microverse
+```sh
+  bin/rails test test/models/article_test.rb
+```
+--->
+
+<!-- ### Deployment
+
+You can deploy this project using: -->
+
+<!--
+Example:
+
+```sh
+
+```
+ -->
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+
+> Mention all of the collaborators of this project.
+
+👤 **Phelelani**
+
+- GitHub: [@githubhandle](https://github.com/techmoves)
+- Twitter: [@twitterhandle](https://twitter.com/Dopezonke_)
+- LinkedIn: [LinkedIn][(https://linkedin.com/in/phelelani-ndlovu-883916160)]
 
 
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-👤 Author
+<!-- FUTURE FEATURES -->
 
+## 🔭 Future Features <a name="future-features"></a>
 
-GitHub: @techmoves
+> Describe 1 - 3 features you will add to the project.
 
+- [ ] **[new_feature_1]**
+- [ ] **[new_feature_2]**
+- [ ] **[new_feature_3]**
 
-Twitter: @Dopezonke_
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-LinkedIn: https://www.linkedin.com/in/phelelani-ndlovu-883916160/
+<!-- CONTRIBUTING -->
 
+## 🤝 Contributing <a name="contributing"></a>
 
-(back to top)
-
-
-🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the issues page ,and there are issues please feel free to reach out to me.
-we are open for collarboration
+Feel free to check the [issues page](../../issues/).
 
-(back to top)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-⭐️ Show your support
+<!-- SUPPORT -->
 
+## ⭐️ Show your support <a name="support"></a>
 
+> Write a message to encourage readers to support your project
 
-Write a message to encourage readers to support your project If you like this project... be sure to keep an eye on my future projects we going to be more
+If you like this project...
 
-(back to top)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-🙏 Acknowledgments
+<!-- ACKNOWLEDGEMENTS -->
 
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-Give credit to everyone who inspired your codebase. I would like to thank... my microverse team!!!!
+> Give credit to everyone who inspired your codebase.
 
-(back to top)
+I would like to thank... microverse and the whole team
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- FAQ (optional) -->
 
-📝 License
+## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
+> Add at least 2 questions new developers would ask when they decide to use your project.
 
-This project is MIT licensed.
+- **[Question_1]**
+
+  - [Answer_1]
+
+- **[Question_2]**
+
+  - [Answer_2]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
