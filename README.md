@@ -194,11 +194,7 @@ Example:
 - LinkedIn: [LinkedIn][(https://linkedin.com/in/phelelani-ndlovu-883916160)]
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
-
-Contributions, issues, and feature requests are welcome!
 
 
 <!-- SUPPORT -->
@@ -206,6 +202,7 @@ Contributions, issues, and feature requests are welcome!
 
 
 > Write a message to encourage readers to support your project
+> to new student    from microverse they veiw this project for review
 
 If you like this project...
 
