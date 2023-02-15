@@ -12,26 +12,48 @@ This is just basic min-project to must github flow
 
 Microverse README Template
 📗 Table of Contents
+
 📖 About the Project
+
 🛠 Built With
+
 Tech Stack
+
 Key Features
+
 🚀 Live Demo
+
 💻 Getting Started
+
 Setup
+
 Prerequisites
+
 Install
+
 Usage
+
 Run tests
+
 Deployment
+
 👥 Authors
+
 🔭 Future Features
+
 🤝 Contributing
+
 ⭐️ Show your support
+
 🙏 Acknowledgements
+
 ❓ FAQ
+
 📝 License
+
 📖 [Hello Micorverse]
+
+
 Describe your project in 1 or 2 sentences. [Hello Microverse] is a...
 
 🛠 Built With
@@ -54,6 +76,8 @@ Prerequisites
 In order to run this project you need:
 
 Setup
+
+
 Clone this repository to your desired folder: https://github.com/techmoves/Hello-Microverse.git
 
 Install
@@ -74,12 +98,21 @@ You can deploy this project using:
 Mention all of the collaborators of this project. 👤 microverse
 
 
+
+
 👤 Author
 
+
 GitHub: @techmoves
+
+
 Twitter: @Dopezonke_
+
 LinkedIn: phelelani Ndlovu
+
+
 (back to top)
+
 
 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
@@ -90,14 +123,23 @@ we are open for collarboration
 (back to top)
 
 ⭐️ Show your support
+
+
+
 Write a message to encourage readers to support your project If you like this project... be sure to keep an eye on my future projects we going to be more
 
 (back to top)
 
 🙏 Acknowledgments
+
+
 Give credit to everyone who inspired your codebase. I would like to thank... my microverse team!!!!
 
 (back to top)
 
+
+
 📝 License
+
+
 This project is MIT licensed.
