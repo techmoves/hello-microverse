@@ -77,7 +77,7 @@ This help me having to understand about linters
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-![image](https://user-images.githubusercontent.com/110924992/219158348-36ebb154-53dc-4156-ba79-47e1b12fd7b1.png)
+
 
 
 
@@ -85,13 +85,9 @@ This help me having to understand about linters
 
 - [Live Demo Link]()
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
 
-## 💻 Getting Started <a name="getting-started"></a>
 
-To get a local copy up and running, follow these steps.
 
 
 
