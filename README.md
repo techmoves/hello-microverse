@@ -81,7 +81,6 @@ This help me having to understand about linters
 
 
 
-> Add a link to your deployed project.
 
 - [Live Demo Link]()
 
