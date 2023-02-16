@@ -167,9 +167,6 @@ Example command:
 ```
 --->
 
-<!-- ### Deployment
-
-You can deploy this project using: -->
 
 <!--
 Example:
@@ -181,9 +178,7 @@ Example:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
 
 > Mention all of the collaborators of this project.
 
@@ -218,21 +213,7 @@ I would like to thank... microverse and the whole team
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
 
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
