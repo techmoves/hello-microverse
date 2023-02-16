@@ -1,136 +1,214 @@
-# hello-microverse
-This is just basic min-project to must github flow 
+<a name="readme-top"></a>
+
+<!--
+HOW TO USE:
+This is an example of how you may give instructions on setting up your project locally.
+
+Modify this file to match your project and remove sections that don't apply.
+
+REQUIRED SECTIONS:
+- Table of Contents
+- About the Project
+  - Built With
+  - Live Demo
+- Getting Started
+- Authors
+- Future Features
+- Contributing
+- Show your support
+- Acknowledgements
+- License
+
+OPTIONAL SECTIONS:
+- FAQ
+
+After you're finished please remove all the comments and instructions!
+-->
+
+<div align="center">
+  <h3><b>Hello Microverse</b></h3>
+</div>>
+
+<!-- TABLE OF CONTENTS -->
+
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
+- 
+<!-- PROJECT DESCRIPTION -->
+# 📖 [Hello-world] <a name="about-project"></a>
+This is a simple project done for Microverse. Through this project I have learned how to prepare a GitHub Repository for a project in a more Professional way. 
+**[Hello Microverse]** 
+
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+Not applicable for the project
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li>Not applicable</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li>Not applicable</li>
+  </ul>
+</details>
+
+<details>
+<summary>Database</summary>
+  <ul>
+    <li>Not applicable</li>
+  </ul>
+</details>
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+The key features of the project are the implementation of the following related to linters
+
+- **[Lighthouse]**
+- **[Webhint]**
+- **[Stylelint]**
 
 
-Microverse README Template
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-📗 Table of Contents
-📖 About the Project
-🛠 Built With
-Tech Stack
-Key Features
-🚀 Live Demo
-💻 Getting Started
-Setup
-Prerequisites
-Install
-Usage
-Run tests
-Deployment
-👥 Authors
-🔭 Future Features
-🤝 Contributing
-⭐️ Show your support
-🙏 Acknowledgements
-❓ FAQ (OPTIONAL)
-📝 License
-📖 [your_project_name]
-Describe your project in 1 or 2 sentences.
+<!-- LIVE DEMO -->
 
-[your_project__name] is a...
+## 🚀 Live Demo <a name="live-demo"></a>
 
-🛠 Built With
-Tech Stack
-Describe the tech stack and include only the relevant sections that apply to your project.
+No live demo is avialble of this project
 
-Client
-Server
-Database
-Key Features
-Describe between 1-3 key features of the application.
 
-[key_feature_1]
-[key_feature_2]
-[key_feature_3]
-(back to top)
 
-🚀 Live Demo
-Add a link to your deployed project.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Live Demo Link
-(back to top)
+<!-- GETTING STARTED -->
 
-💻 Getting Started
-Describe how a new developer could make use of your project.
+## 💻 Getting Started <a name="getting-started"></a>
+
+The Hello Microverse Project is for educational and training purpose of Microverse
 
 To get a local copy up and running, follow these steps.
 
-Prerequisites
-In order to run this project you need:
+### Prerequisites
 
-Setup
-Clone this repository to your desired folder:
+In order to understand this project you need:
+You need to be a part of Microverse.
 
-Install
-Install this project with:
 
-Usage
-To run the project, execute the following command:
+### Setup
+ 
 
-Run tests
-To run tests, run the following command:
 
-Deployment
-You can deploy this project using:
+### Install
 
-(back to top)
+You need:
+- Visual Studio Code
+- GitHub account
+- Desktop Gihub can be an added advantage
 
-👥 Authors
-Mention all of the collaborators of this project.
+### Usage
 
-👤 Author1
+Through this project one can undertstand and learn how to create repository in GitHub and connect wih local PC along with error checking and Version Control.
 
-GitHub: @githubhandle
-Twitter: @twitterhandle
-LinkedIn: LinkedIn
-👤 Author2
+### Run tests
 
-GitHub: @githubhandle
-Twitter: @twitterhandle
-LinkedIn: LinkedIn
-(back to top)
+Not Applicable.
 
-🔭 Future Features
-Describe 1 - 3 features you will add to the project.
 
- [new_feature_1]
- [new_feature_2]
- [new_feature_3]
-(back to top)
 
-🤝 Contributing
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+## 👥 Authors <a name="authors"></a>
+👤 **techmoves**
+
+- GitHub: [@githubhandle](https://github.com/githubhandle)
+- Twitter: [@twitterhandle](https://twitter.com/rhk_trading)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+Not Applicable.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the issues page.
+Feel free to check the [issues page](https://github.com/RHK-MICROVERSE/Hello-world/issues).
 
-(back to top)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-⭐️ Show your support
-Write a message to encourage readers to support your project
+<!-- SUPPORT -->
 
-If you like this project...
+## ⭐️ Show your support <a name="support"></a>
 
-(back to top)
+If you like this project share the project with others and thank you.
 
-🙏 Acknowledgments
-Give credit to everyone who inspired your codebase.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-I would like to thank...
+<!-- ACKNOWLEDGEMENTS -->
 
-(back to top)
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-❓ FAQ (OPTIONAL)
-Add at least 2 questions new developers would ask when they decide to use your project.
+I would like to thank Agape Nduwamungu.
 
-[Question_1]
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- FAQ (optional) -->
 
-[Answer_1]
-[Question_2]
+## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-[Answer_2]
-(back to top)
 
-📝 License
-This project is MIT licensed.
+- **Error/ Issue during implementation of Stleint**
 
-NOTE: we recommend using the MIT license - you can set it up quickly by using templates available on GitHub. You can also use any other license if you wish.
+  - In VSC some issue or error can arise in VSC. Please watch the terminal output prompt to resolve it.
+
+- **Creating .stylelintrc.json file**
+
+  - VSC sometime will prompt that the above file cannot be created. Please write the name properly and after that press ENTER.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](https://github.com/RHK-MICROVERSE/Hello-world/blob/htmlcss-branch/.LICENSEE) licensed.
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
