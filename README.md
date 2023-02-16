@@ -78,13 +78,6 @@ This help me having to understand about linters
 
 > Add a link to your deployed project.
 
-- [Live Demo Link]()
-
-
-
-
-
-
 
 In order to run this project you need:
 one this repository to your desired folder https://github.com/techmoves/hello-microvese.git
