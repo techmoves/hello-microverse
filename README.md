@@ -194,10 +194,6 @@ Example:
 <!-- SUPPORT -->
 
 
-
-> Write a message to encourage readers to support your project
-> to new student    from microverse they veiw this project for review
-
 If you like this project...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
