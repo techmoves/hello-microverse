@@ -75,11 +75,6 @@ This help me having to understand about linters
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
-
-
-
 
 > Add a link to your deployed project.
 
