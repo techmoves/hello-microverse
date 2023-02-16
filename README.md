@@ -86,7 +86,7 @@ This help me having to understand about linters
 
 
 
-
+If you like this project, give it a ⭐️ 
 
 
 
