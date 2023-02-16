@@ -1,33 +1,8 @@
-<a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
 
-Modify this file to match your project and remove sections that don't apply.
+hello microverse
 
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
 
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
-
-<div align="center">
-  <h3><b>Hello Microverse</b></h3>
-</div>>
 
 <!-- TABLE OF CONTENTS -->
 
@@ -52,36 +27,39 @@ After you're finished please remove all the comments and instructions!
 - [🙏 Acknowledgements](#acknowledgements)
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
-- 
+
 <!-- PROJECT DESCRIPTION -->
-# 📖 [Hello-world] <a name="about-project"></a>
-This is a simple project done for Microverse. Through this project I have learned how to prepare a GitHub Repository for a project in a more Professional way. 
-**[Hello Microverse]** 
+
+# 📖 Hello microverse <a name="about-project"></a>
+this just a basic project and the 1st project on the module
+This help me having to understand about linters 
+
+**  Hello hello microverse ** 
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-Not applicable for the project
+> Describe the tech stack and include only the relevant sections that apply to your project.
 
-<details>
-  <summary>Client</summary>
+<details
+  <summary>HTML5</summary>
   <ul>
-    <li>Not applicable</li>
+    <li>HTML Tutorial from W3school</li>
   </ul>
 </details>
 
 <details>
-  <summary>Server</summary>
+  <summary>CSS3</summary>
   <ul>
-    <li>Not applicable</li>
+    <li>CSS3 Tutorial from W3school</li>
   </ul>
 </details>
 
 <details>
-<summary>Database</summary>
+<summary>Linters</summary>
   <ul>
-    <li>Not applicable</li>
+    <li>Linters Tutorial</a></li>
   </ul>
 </details>
 
@@ -89,12 +67,9 @@ Not applicable for the project
 
 ### Key Features <a name="key-features"></a>
 
-The key features of the project are the implementation of the following related to linters
-
-- **[Lighthouse]**
-- **[Webhint]**
-- **[Stylelint]**
-
+- **[html 5]**
+- **[css 3]**
+- **[linters]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -102,83 +77,134 @@ The key features of the project are the implementation of the following related 
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-No live demo is avialble of this project
 
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
+> Add a link to your deployed project.
 
-## 💻 Getting Started <a name="getting-started"></a>
+- [Live Demo Link]()
 
-The Hello Microverse Project is for educational and training purpose of Microverse
 
-To get a local copy up and running, follow these steps.
 
-### Prerequisites
 
-In order to understand this project you need:
-You need to be a part of Microverse.
 
+
+
+In order to run this project you need:
+one this repository to your desired folder https://github.com/techmoves/hello-microvese.git
+
+Run the command npm install to install necessary dependencies contained in the package.json file
+
+
+<!--
+Example command:
+
+```sh
+ gem install rails
+```
+ -->
 
 ### Setup
- 
 
+Clone this repository to your desired folder:
+
+<!--
+Example commands:
+
+```sh
+  cd my-folder
+  git clone git@github.com:myaccount/my-project.git
+```
+--->
 
 ### Install
+Install this project with these cmd:
 
-You need:
-- Visual Studio Code
-- GitHub account
-- Desktop Gihub can be an added advantage
+     1.cd Desktop/
+     2git clone using repository link
+     3.cd Hello-world/
+     4.git branch branch_name
+     5.git checkout branch_name
 
-### Usage
+gitbash and clone the repo using HTTP link
 
-Through this project one can undertstand and learn how to create repository in GitHub and connect wih local PC along with error checking and Version Control.
+<!--
+Example command:
+
+```sh
+  cd my-project
+  gem install
+```
+--->
+
+<!-- ### Usage
+
+To run the project, execute the following command: -->
+
+<!--
+Example command:
+
+```sh
+  rails server
+```
+--->
 
 ### Run tests
 
-Not Applicable.
+To run tests, run the following command:
 
+     1.Run tests
+     2.To run tests run :
+     3.npx hint .
+     4.npx stylelint "*/.{css,scss}"
 
+<!--
+Example command:
 
+```sh
+  bin/rails test test/models/article_test.rb
+```
+--->
 
+<!-- ### Deployment
+
+You can deploy this project using: -->
+
+<!--
+Example:
+
+```sh
+
+```
+ -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
+
 ## 👥 Authors <a name="authors"></a>
-👤 **techmoves**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/rhk_trading)
+> Mention all of the collaborators of this project.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+👤 **Phelelani**
 
-<!-- FUTURE FEATURES -->
+- GitHub: [@githubhandle](https://github.com/techmoves)
+- Twitter: [@twitterhandle](https://twitter.com/Dopezonke_)
+- LinkedIn: [LinkedIn][(https://linkedin.com/in/phelelani-ndlovu-883916160)]
 
-## 🔭 Future Features <a name="future-features"></a>
 
-Not Applicable.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
-
-## 🤝 Contributing <a name="contributing"></a>
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](https://github.com/RHK-MICROVERSE/Hello-world/issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SUPPORT -->
 
-## ⭐️ Show your support <a name="support"></a>
 
-If you like this project share the project with others and thank you.
+
+> Write a message to encourage readers to support your project
+> to new student    from microverse they veiw this project for review
+
+If you like this project...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -186,21 +212,25 @@ If you like this project share the project with others and thank you.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Agape Nduwamungu.
+> Give credit to everyone who inspired your codebase.
+
+I would like to thank... microverse and the whole team
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- FAQ (optional) -->
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
+> Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **Error/ Issue during implementation of Stleint**
+- **[Question_1]**
 
-  - In VSC some issue or error can arise in VSC. Please watch the terminal output prompt to resolve it.
+  - [Answer_1]
 
-- **Creating .stylelintrc.json file**
+- **[Question_2]**
 
-  - VSC sometime will prompt that the above file cannot be created. Please write the name properly and after that press ENTER.
+  - [Answer_2]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -208,7 +238,8 @@ I would like to thank Agape Nduwamungu.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/RHK-MICROVERSE/Hello-world/blob/htmlcss-branch/.LICENSEE) licensed.
+This project is [MIT](./LICENSE) licensed.
 
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
